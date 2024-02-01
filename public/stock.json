@@ -1,0 +1,394 @@
+[
+ {
+  "MRPC": 991,
+  "Responsible": "Nikhil"
+ },
+ {
+  "MRPC": 992,
+  "Responsible": "Nikhil"
+ },
+ {
+  "MRPC": 993,
+  "Responsible": "Nikhil"
+ },
+ {
+  "MRPC": 994,
+  "Responsible": "Nikhil"
+ },
+ {
+  "MRPC": 995,
+  "Responsible": "Nikhil"
+ },
+ {
+  "MRPC": 996,
+  "Responsible": "Nikhil"
+ },
+ {
+  "MRPC": 997,
+  "Responsible": "Nikhil"
+ },
+ {
+  "MRPC": 999,
+  "Responsible": "Nikhil"
+ },
+ {
+  "MRPC": "A01",
+  "Responsible": "Stany Sebastin"
+ },
+ {
+  "MRPC": "A02",
+  "Responsible": "Stany Sebastin"
+ },
+ {
+  "MRPC": "A03",
+  "Responsible": "Srinivas B.H"
+ },
+ {
+  "MRPC": "A04",
+  "Responsible": "Charan Raj"
+ },
+ {
+  "MRPC": "A05",
+  "Responsible": "Stany Sebastin"
+ },
+ {
+  "MRPC": "A06",
+  "Responsible": "Raghu N.S"
+ },
+ {
+  "MRPC": "A07",
+  "Responsible": "Charan Raj"
+ },
+ {
+  "MRPC": "A08",
+  "Responsible": "Raghu N.S"
+ },
+ {
+  "MRPC": "A09",
+  "Responsible": "Karthik c"
+ },
+ {
+  "MRPC": "A10",
+  "Responsible": "Raghu N.S"
+ },
+ {
+  "MRPC": "A11",
+  "Responsible": "Srinivas B.H"
+ },
+ {
+  "MRPC": "A12",
+  "Responsible": "Stany Sebastin"
+ },
+ {
+  "MRPC": "A13",
+  "Responsible": "Sindhu"
+ },
+ {
+  "MRPC": "A20",
+  "Responsible": "Raghu N.S"
+ },
+ {
+  "MRPC": "A21",
+  "Responsible": "Charan Raj"
+ },
+ {
+  "MRPC": "A22",
+  "Responsible": "Nikhil"
+ },
+ {
+  "MRPC": "A23",
+  "Responsible": "Nikhil"
+ },
+ {
+  "MRPC": "A24",
+  "Responsible": "Srinivas B.H"
+ },
+ {
+  "MRPC": "A25",
+  "Responsible": "Srinivas B.H"
+ },
+ {
+  "MRPC": "A26",
+  "Responsible": "Raghu N.S"
+ },
+ {
+  "MRPC": "A27",
+  "Responsible": "Srikanth SP"
+ },
+ {
+  "MRPC": "A28",
+  "Responsible": "Charan Raj"
+ },
+ {
+  "MRPC": "A29",
+  "Responsible": "Srinivas B.H"
+ },
+ {
+  "MRPC": "A30",
+  "Responsible": "Raghu N.S"
+ },
+ {
+  "MRPC": "A31",
+  "Responsible": "Raghu N.S"
+ },
+ {
+  "MRPC": "A32",
+  "Responsible": "Srinivas B.H"
+ },
+ {
+  "MRPC": "A33",
+  "Responsible": "Srinivas B.H"
+ },
+ {
+  "MRPC": "A34",
+  "Responsible": "Karthik c"
+ },
+ {
+  "MRPC": "A35",
+  "Responsible": "Srikanth SP"
+ },
+ {
+  "MRPC": "A36",
+  "Responsible": "Sindhu"
+ },
+ {
+  "MRPC": "A50",
+  "Responsible": "Charan Raj"
+ },
+ {
+  "MRPC": "A60",
+  "Responsible": "WH Article "
+ },
+ {
+  "MRPC": "A61",
+  "Responsible": "WH Article "
+ },
+ {
+  "MRPC": "A62",
+  "Responsible": "WH Article "
+ },
+ {
+  "MRPC": "A63",
+  "Responsible": "WH Article "
+ },
+ {
+  "MRPC": "A66",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "A70",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "A71",
+  "Responsible": "Srikanth SP"
+ },
+ {
+  "MRPC": "A72",
+  "Responsible": "Srikanth SP"
+ },
+ {
+  "MRPC": "A80",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "A81",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "A82",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "A90",
+  "Responsible": "Kumar C"
+ },
+ {
+  "MRPC": "F06",
+  "Responsible": "Ananth Murthy"
+ },
+ {
+  "MRPC": "L01",
+  "Responsible": "Sandeep PL"
+ },
+ {
+  "MRPC": "L10",
+  "Responsible": "Sandeep PL"
+ },
+ {
+  "MRPC": "L20",
+  "Responsible": "Sandeep PL"
+ },
+ {
+  "MRPC": "L21",
+  "Responsible": "Sandeep PL"
+ },
+ {
+  "MRPC": "M01",
+  "Responsible": "Mani"
+ },
+ {
+  "MRPC": "M02",
+  "Responsible": "Mani"
+ },
+ {
+  "MRPC": "M12",
+  "Responsible": "Mani"
+ },
+ {
+  "MRPC": "M13",
+  "Responsible": "Rakesh "
+ },
+ {
+  "MRPC": "M20"
+ },
+ {
+  "MRPC": "M21"
+ },
+ {
+  "MRPC": "M22"
+ },
+ {
+  "MRPC": "M30"
+ },
+ {
+  "MRPC": "M31",
+  "Responsible": "Manu"
+ },
+ {
+  "MRPC": "M60",
+  "Responsible": "WH Article "
+ },
+ {
+  "MRPC": "M61",
+  "Responsible": "WH Article "
+ },
+ {
+  "MRPC": "M62",
+  "Responsible": "WH Article "
+ },
+ {
+  "MRPC": "M63",
+  "Responsible": "Kumar C"
+ },
+ {
+  "MRPC": "M99",
+  "Responsible": "Kumar C"
+ },
+ {
+  "MRPC": "P01",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "P02",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "P03",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "P04",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "P05",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "P06",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "P07",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "P08",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "P09",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "P10",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "P11",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "P12",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "P13",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "P14",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "P15",
+  "Responsible": "Ravikumar Y J"
+ },
+ {
+  "MRPC": "R01",
+  "Responsible": "Girish G V"
+ },
+ {
+  "MRPC": "R02",
+  "Responsible": "Girish G V"
+ },
+ {
+  "MRPC": "R03",
+  "Responsible": "Girish G V"
+ },
+ {
+  "MRPC": "R04",
+  "Responsible": "Girish G V"
+ },
+ {
+  "MRPC": "R11",
+  "Responsible": "Girish G V"
+ },
+ {
+  "MRPC": "R12",
+  "Responsible": "Girish G V"
+ },
+ {
+  "MRPC": "R22",
+  "Responsible": "Girish G V"
+ },
+ {
+  "MRPC": "R23",
+  "Responsible": "Girish G V"
+ },
+ {
+  "MRPC": "R24",
+  "Responsible": "Girish G V"
+ },
+ {
+  "MRPC": "R25",
+  "Responsible": "Girish G V"
+ },
+ {
+  "MRPC": "V02",
+  "Responsible": "Girish G V"
+ },
+ {
+  "MRPC": "v01",
+  "Responsible": "Girish G V"
+ },
+ {
+  "MRPC": "R21",
+  "Responsible": "Girish G V"
+ },
+ {
+  "MRPC": "v12",
+  "Responsible": "Girish G V"
+ }
+]
