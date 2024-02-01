@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/stock-visualization/static/css/main.5221111b.css",
+    "main.js": "/github.io/stock-visualization/static/js/main.e1b58695.js",
+    "index.html": "/github.io/stock-visualization/index.html",
+    "main.5221111b.css.map": "/github.io/stock-visualization/static/css/main.5221111b.css.map",
+    "main.e1b58695.js.map": "/github.io/stock-visualization/static/js/main.e1b58695.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5221111b.css",
+    "static/js/main.e1b58695.js"
+  ]
+}
